@@ -14,8 +14,8 @@ A comprehensive analytics dashboard for visualizing Mobile Money (MoMo) transact
 ### Local Installation
 
 1. Clone the repository
-
-git clone https://github.com/yourusername/MoMo-Data-Analysis.git
+``` bash
+  git clone https://github.com/henryparfait/MoMo-Data-Analysis.git
  
 2. Navigate to the project directory
 
