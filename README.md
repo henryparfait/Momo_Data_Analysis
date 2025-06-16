@@ -78,6 +78,10 @@ The system processes SMS notifications in this format:
 
 You have received 2000 RWF from Jane Smith (*******013) on your mobile money account at 2024-05-10 16:30:51. Message from sender: . Your new balance:2000 RWF. Financial Transaction Id: 76662021700.
 
+## Link To the video
+
+Demo video Link: https://youtu.be/Bdcw1FA5shk N.B: Only for Education Purposes.
+
 ## License
 
 This project is licensed under the MIT License (https://opensource.org/license/mit)
